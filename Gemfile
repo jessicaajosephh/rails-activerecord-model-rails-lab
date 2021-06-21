@@ -46,3 +46,5 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'database_cleaner'
 end
+
+#gem 'did_you_mean', '~>1.3.0'
